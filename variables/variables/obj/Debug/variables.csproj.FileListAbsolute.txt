@@ -1,0 +1,8 @@
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\bin\Debug\variables.exe.config
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\bin\Debug\variables.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\bin\Debug\variables.pdb
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\obj\Debug\variables.csproj.AssemblyReference.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\obj\Debug\variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\obj\Debug\variables.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\variables\variables\obj\Debug\variables.pdb

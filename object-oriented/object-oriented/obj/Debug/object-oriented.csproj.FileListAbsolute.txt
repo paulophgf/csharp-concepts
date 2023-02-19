@@ -1,0 +1,8 @@
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\bin\Debug\object-oriented.exe.config
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\bin\Debug\object-oriented.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\bin\Debug\object-oriented.pdb
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\obj\Debug\object-oriented.csproj.AssemblyReference.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\obj\Debug\object-oriented.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\obj\Debug\object-oriented.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\obj\Debug\object-oriented.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\object-oriented\object-oriented\obj\Debug\object-oriented.pdb

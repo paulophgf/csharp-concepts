@@ -1,0 +1,8 @@
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\bin\Debug\conditional.exe.config
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\bin\Debug\conditional.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\bin\Debug\conditional.pdb
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\obj\Debug\conditional.csproj.AssemblyReference.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\obj\Debug\conditional.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\obj\Debug\conditional.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\obj\Debug\conditional.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\conditional\conditional\obj\Debug\conditional.pdb

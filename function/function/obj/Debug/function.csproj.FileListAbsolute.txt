@@ -1,0 +1,8 @@
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\bin\Debug\function.exe.config
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\bin\Debug\function.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\bin\Debug\function.pdb
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\obj\Debug\function.csproj.AssemblyReference.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\obj\Debug\function.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\obj\Debug\function.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\function\function\obj\Debug\function.pdb

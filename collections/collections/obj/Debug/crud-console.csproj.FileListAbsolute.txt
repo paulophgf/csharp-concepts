@@ -1,0 +1,8 @@
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\bin\Debug\collections.exe.config
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\bin\Debug\collections.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\bin\Debug\collections.pdb
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\obj\Debug\crud-console.csproj.AssemblyReference.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\obj\Debug\crud-console.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\obj\Debug\crud-console.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\obj\Debug\collections.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\collections\collections\obj\Debug\collections.pdb

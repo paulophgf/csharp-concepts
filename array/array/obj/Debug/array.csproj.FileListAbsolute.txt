@@ -1,0 +1,8 @@
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\bin\Debug\array.exe.config
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\bin\Debug\array.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\bin\Debug\array.pdb
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\obj\Debug\array.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\obj\Debug\array.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\array\array\obj\Debug\array.pdb

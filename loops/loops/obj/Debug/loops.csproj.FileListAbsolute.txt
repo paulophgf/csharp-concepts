@@ -1,0 +1,8 @@
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\bin\Debug\loops.exe.config
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\bin\Debug\loops.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\bin\Debug\loops.pdb
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\obj\Debug\loops.exe
+C:\Users\paulo\Development\CSharp Tests\hello-world\loops\loops\obj\Debug\loops.pdb
